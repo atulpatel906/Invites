@@ -1,0 +1,21 @@
+# Invites
+Show coding with email
+<html> 
+    <head> 
+        <title>Meeting button</title> 
+    </head> 
+        <body></br> 
+            <a href="https://shyamaju.my.webex.com/shyamaju.my/j.phpMTID=m3fe8cdf356ff7107042ccbaa 5f770679">Join WebEx meeting</a>  
+            <p>Meeting number (access code): 629 798 434</p> 
+            <p>Meeting password: Selenium2.1</p> 
+            <p><b>Join from a video system or application></p> 
+            <p>Dial: 
+            <a href="629798434@shyamaju.my.webex.com">629798434@shyamaju.my.webex.com</a> 
+            <p>Join by phone<b></p> 
+            <p>+1-510-338-9438 USA Toll</p>  <a href="  https://shyamaju.my.webex.com/cmp3200/webcomponents/widget/globalcallin/globalcallin.do ?serviceType=MC&serviceType=MC&serviceType=MC&serviceType=MC&ED=598722137&ED=5 98722137&ED=598722137&ED=598722137&tollFree=0&tollFree=0&tollFree=0&tollFree=0&site url=shyamaju.my&siteurl=shyamaju.my&siteurl=shyamaju.my&apiname=globalcallin.php&apin ame=globalcallin.php&apiname=globalcallin.php&needFilter=false&needFilter=false&needFilter =false&rnd=6683293970&rnd=6683293970&rnd=6683293970&actappname=cmp3200&actapp name=cmp3200&actname=/webcomponents/widget/globalcallin/gcnredirector.do&actname=/ webcomponents/widget/globalcallin/gcnredirector.do&renewticket=0"> 
+             Global call-in numbers></a></br></br>          
+            <a href="https://help.webex.com/docs/DOC-5412">Can't join the meeting?</a></br></br> 
+            <h1>See How? </h1> 
+            <a href ="https://1drv.ms/w/s!AjZRHsrjYdnh8SvZzBCodqsNz7KY">Click here</a> 
+        </body>     
+</html> 
